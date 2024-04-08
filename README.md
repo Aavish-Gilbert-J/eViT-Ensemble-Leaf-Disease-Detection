@@ -8,11 +8,11 @@ This dataset contains a collection of images depicting various plant diseases al
 - **Labels.csv**: This CSV file contains the filenames of the images along with their corresponding disease labels.
 
 ## Dataset Details
-- **Total Images**: [total_images]
-- **Number of Classes**: [num_classes]
-- **Image Format**: JPEG
-- **Image Size**: Variable (images are resized to a uniform size of [image_size] pixels)
-- **Disease Classes**: [comma-separated list of disease classes]
+- **Total Images**: 87,000
+- **Number of Classes**: 38
+- **Image Format**: JPG
+- **Image Size**: 500x500
+- **Disease Classes**: SCAB, ROT, BLIGHT, RUST, HEALTHY, POWDERY_MILDEW, GERY_LEAF_SPOT
 
 ## Usage
 Researchers and developers can utilize this dataset for various purposes including:
@@ -20,13 +20,5 @@ Researchers and developers can utilize this dataset for various purposes includi
 - Benchmarking algorithms for plant disease classification.
 - Exploring novel approaches for plant pathology research.
 
-## Citation
-If you use this dataset in your research or publication, please consider citing:
-
-[author] ([publisher]. [doi_url])
-
-## Acknowledgements
-We would like to acknowledge [source of images/data, if applicable] for providing the images used in this dataset.
-
 ## Contact
-For inquiries regarding the dataset, please contact [email].
+For inquiries regarding the dataset, please contact pes1202100706@pesu.pes.edu
