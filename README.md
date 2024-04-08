@@ -1,7 +1,5 @@
 # eViT-Ensemble-Leaf-Disease-Detection
 
-# Plant Disease Image Dataset
-
 ## Overview
 This dataset contains a collection of images depicting various plant diseases along with their corresponding labels. The dataset aims to facilitate research and development in the field of plant pathology, particularly in the automated detection and classification of leaf diseases.
 
